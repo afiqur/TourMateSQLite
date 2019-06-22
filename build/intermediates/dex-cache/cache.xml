@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\e23cb28a56ff6098b42f8488e98130646c46060e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5a771c07a650e4a68e4fa75c4f6b1ce5de3aa6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\a64a9af411a8f15bb83706dad6134ebf24a333bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b642c32227f1c4bd28f716ffae6e1194264eb6d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta2_1e9273fee98d73a564be27e463051f2f58c38528\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\103eeb9432160b0263ada3b352730ef7658fbeb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d66b8668122393a15c90471c5c974c25439d193a">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e9be6056c447beaa76e537e3796561116c53762\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\f74620899b590b3f022b2d2e374a9eee338fc456\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a32639a6f1245a747b76866c183955f0894457c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\b8bd53fa9f97ce2709031cab76fea56dc5955248\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f408b7e79046bb226e3c778fe682e05cad59cae3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\f5f1ea195ffef4579f07844e63adb31c88f32121\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c6918e851d4f3e69028d49822aac4a5278640e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\1ed34dc2de3f38039318193c0441d54bcf90358c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e70a0f0599ab1498347aadf909f202fc2503b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_d19d73a108bc0f4708528f8a232360c1401b26d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\571ffac0ed922149a7ba535a60d4efd178a2b02b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aca8dcd092da1127b7aa91384105d7c9beac5720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\b0cc08faf6ab32c1d094f36ed579e178ae9b89f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfa3d9709f23a950a05c66931f3db7c37f2df6f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_8e3935c84892256e1c6e5c2327299a6082190d76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\1117fb0f2a9119e956d1d7b47891a1b54404d92d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fdf15d202000492aefe43092b21af5332df0178">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15dd708d41af9352c7dbe0f8da517b847d9465dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\cda7d9713aebaa58e1c21c22383e7457b20f62d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b1a5d49c751c21c337c78ac0949fe5a28822fc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\2f2492281d77a6373f4259354604b659bcf33d7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e66cffd68f9ea182d83bd5dbfc45fe51b2dd5b5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\c1e2a82d1295add822a496931c827919babfd7a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2faf427271da4206ec2b8c177059b62d939918b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\0d1ab7d0f2e73bf90dca725782d23fd0f80bd452\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12c05fa69f1601c8b5c0ea97b8dee0e074d1d951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c30ad88f22aebd48fd859c8222a47f513cd07315\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\eae4a43b14ec05d31e2abc77e7d632efd8ce6ca7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4432f8c22a29d4782199c5effb334043036563f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\27787f533e52d5414775a3dbb22618da680c9edc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2b4d3ecd541814f08200f8171def113095d5f39">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dcc96191361d565b5fc1120e98e0937b69bf9bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ebe190d85bec57f361100ba06b0fcc4173e48c4">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1d00e03ac30dfda49380376edcb81d4d28288cc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\e62984d23fe579550896778bde47f63b435103f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_034758d6c7808514c4391b72ddc075d3727d4855\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_e1b2799c44c1f82682a4b44ae61d644556ccb5d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\4113e8e1578d4e9d4ed66a4bc14870b9d9dd8e8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd0dc3b4f75ac8c21e3534627e8eafcb1eb32503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\6ce56851148e08970ed4678ab4ba278ac294e048\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_122a909bac861fa77abfdb5051a0536e2ee18c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\89a0866144aa085c3b30b88bb2deb4102fab9533\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5a8c2d49703d7ed54eb5f44c09ae4a1aa5f9c0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.annotation\10.0-b28\30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba\javax.annotation-10.0-b28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-10.0-b28_c324f231b91d66f5b014c86c6ab2120055eb87e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_fa9d78bc740013f69281291dcc65b8e49d704f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\830d3a7219448dca4e0c470485ab8721b892aca3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a901cc46bea71a797d760c665ceb7fd87048749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\87417c02c781d109f1603ae572aba5a3ff9ea042\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50ab62b7e45bb582dd8f439b07ca941abf12a31b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\379d2d726222fc8375bd7f481a906f55bf62799e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05994fff58274fa0fa47e5dac34bd69eb7b6f629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\649d2d0e144fb7e15520b41d9b11acb34be4a9fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33f8f030351a480a4521ca57356cbf3dceeb4b43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\a7efffc7cf6cae53b5ca4ca484e475e96fa4f297\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49cb4b364f53a76cd2b5e16b6ad7abf5e7c72f6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\a86c3f26c9e7630eed4c6ca06d546c738c8ba816\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_875efbf52cca332f6e776380262aaa60c335e3c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\11b47da73fc7ac8cc2c3b70d9604fe35cc1f5bba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a305b98afc0a00cb676bbf1794cef783273f6082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c30ad88f22aebd48fd859c8222a47f513cd07315\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\97dc82ae9cda1569ad93d5c91b717b5fe63e103f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_163c24b2a4292033a1b93d72f7aecdc33dfbf9b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\6b0ab4dd640784fadae44db758d1c48d6e84aa31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7088f19ca9c3849ec3b831b339bcd47634f0881e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\ddc70f029cf42b969ca07a013dbae46e41a52619\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f1a0b4d30aad68554f03775565762c37a4eddab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\273315b03f4c033fbf82c7749f6d8e5fd371e5d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8eb0fe87fca988edc0e9f57709cdca03be8a23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\8a8cdf9c480fcf1c9a395ceb8a23507cf256c0c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e19c223eef262f242c8e5dd45051d7dd497f6ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\b6f52189f40c3d550ae1045a1682e1a87d6954c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d77cd046beb4e997c8ce2a0714dfbefd3f6ebed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_4525d181e524a76c57fc78457a5131306d850b2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\e39b0532d16aa33d025b9e0a3703ea26df52ca57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c879fbe5988fc75c31d8e33a65d6e27df597e0a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\2fdf7d4d65cf9d6af699478915bd1590656544db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef65dbc41c7e520e56955b04a9ae3e55b3b117c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\60f93dffd77fbb0e8ed5b8a987ee39e0c86e6c61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_777429521ca22e14c5b26ce5ff60442f94b98935\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\d3752a342d6a27a1e7e919ea55e7d7c89805baa3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bb1234fc75016ca96ab9a1a55712b28956c7a7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_e3852839d2540f014c6f7f96c848435d023a400c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\dd43f8c78a843dd5b8b33ec18f5366e728f6143f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d361a3599ba0176fb14ce53436e839d0574579bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\c97553b6c07330d83e98e58876455b1ba63a1ec8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7d9ef3c6a89f4fef3f4fa81086c61b937092401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\72feecd6f1009ccda3183624eae562bd5db08747\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba0d0ace2edaa8fdea2af895726c0a7cf3c32f7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\c706def4dd98612102e01b29b0970668368bcd01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c10e9d589333031f4c913fe4c4523cd23e0206ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\be4d77199a7b83f6cf36fb43036b3e5388cadac2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74afc37cbc6530bd1f9685c6a57d1ec9d9b8d895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\1ed34dc2de3f38039318193c0441d54bcf90358c\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_e0e5bba9cd1c0870269ca066bf35d349e5b21b0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\159bc64e830c4e4cd02f783a82d85e8e92d8f519\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deb568d604224e93e675c00bf31545cc9c30fa79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\1c4c9e3c78e00248857643b4d95c74aa33670b20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4beb8ebf0a12d4ba44043b919f60aa0fa3692927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\4d785bee83707dd37e720b01eb0a5b3a78f21ab1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d0109a195b2d1bb3343ee204757f958540ecc93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\6d9ebb1a943cd301034b864f80853eadb567b209\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7c54153e9905a8022248a18653e7c62b8215438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\6f81496edaec6432fe71bdcbc3ac54b769743476\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_491e463a37da27d51e46ebe4ce96f231e883d9ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\8286b6df8bc36ce92b57230f92b3e585e55cf470\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c974d53ce2a167e94f074357643a9122cffe6bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\7e2a9f0cf5f3acf94ec68f7e3e00424b234d6299\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_868242052ebafd88fe8cd149edf7012d0ca319f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_25c101550a37347db0c33c4283cdeb3cbb069271\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\63bb6bc7d9d87a685dacb6065216e78ace8f61be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_421e1affdfb5e95f0dd8dbf3370ead9885cc88f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\d9f104e3b84a3a3d2c6c4ee73a04b72aaae70cb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_226c260a9c895e93e671d6af485b1b217812ed1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\0f717358a4bd7209a5e28046af2bd4084d9cf60e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_daf3ef3bf4c2b901ec0aa87c857663c002993fb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\ec9f3f22f3e56f4de342258cbb7759ec4a96aecf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_033ae0e84b886092301aa6867321e6b201f12d95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\ab7da8c0b8618faa0b53f586653843757901d594\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2200498acbc45f573639fce9552cbf69993a8e43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_90bea4a1eabdb3a24bf1bc445671e2506022af9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\80e12fd8b82839497583730121eba99e5286f220\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ef0388509cd75df51f214553d8533693852144b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\3c8dcc944e483f723c5973cc21d45d47fd9b903e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eaf0ed9bbeb63e203d5ea536c34136b0618ceb65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\a9b4457484e56d7446d9bc26c32fc2248a935eb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02e70fe04e0767ccfa16745b3398816d1171f0ad">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44e68292248bf1571f5d8cdcf9bbed9b84a79f45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\071874c286a3e0f843385ce5164a637d4d005d4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_802e0b38a312cfcbee51a5dbacbece54503ae204\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\5b3135c1b8b23a6acac8e77a79e8d274b07a8516\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d76ec4b0c28ba059ad8d1ebe5207652f2b9f0402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\e515a0a251866fdca98b0d0274e715445e66c7f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1de93ec503ec3232a21dc7ab1707067878385975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\08e5d559a545b36783737e168554da16656a78fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dde643ce80b967f869e9b111255815ba4d391653">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01c1818ae17df8c16bf57cf076c86d27353911aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\ead92968ea097c77956f4eb86c37c0716fc81e5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd185760348fc9f82563d00c54ddfc3fb63a7213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\7d079feff74adeef7b56ee3e68e5d75ccbbb1d82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af7c78c0a26971938969872535ae3a864d1b15ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\cc147a869aa401195431f907453c90f2d5a6dc74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2d22903a2d35d30a0f6fd0d072adb50cd412bc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ebe190d85bec57f361100ba06b0fcc4173e48c4">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1d00e03ac30dfda49380376edcb81d4d28288cc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_2b4144d9b02c782f1e00cb5516fd6408f8645e6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\7ff75e5757a520b389a15fff91f893167c669660\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Final\TourMate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97f11926ef701e7d6e54d8310d6befa1b311b8eb\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="20dp"
+    android:background="#769f8a8a"
+    android:layout_height="130dp">
+
+
+    <TextView
+        android:layout_marginLeft="90dp"
+        android:drawableLeft="@drawable/calendar_mini"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:id="@+id/dateTV"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:drawableLeft="@drawable/thermometer"
+        android:layout_below="@+id/dateTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="min Temparature"
+        android:id="@+id/minTempTV"
+        android:textColor="#fff"
+        android:textSize="15dp"
+        android:layout_above="@+id/sunriseTV" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="max Temparature"
+        android:textColor="#fff"
+        android:id="@+id/maxTempTV"
+        android:drawableLeft="@drawable/thermometer"
+        android:textSize="15dp"
+        android:layout_below="@+id/dateTV"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:drawableLeft="@drawable/sunrise"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:text="sunrise"
+        android:id="@+id/sunriseTV"
+        android:textSize="20dp"
+        android:layout_alignBaseline="@+id/sunsetTV"
+        android:layout_alignBottom="@+id/sunsetTV"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:drawableLeft="@drawable/sunset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:text="sunset"
+        android:id="@+id/sunsetTV"
+        android:textSize="20dp"
+        android:layout_below="@+id/maxTempTV"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
